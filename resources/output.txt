@@ -1,0 +1,11 @@
+Login failed for username: admin and password: password
+Login failed for username: standard_user and password: secret
+Login failed for username: admin and password: 12345678
+Login failed for username: root and password: password
+Login failed for username: admin and password: admin
+Login failed for username: test and password: testpassword
+Login failed for username: guest and password: 1234
+!!! ### !!! Login successful for username: student and password: Password123
+Login failed for username: info and password: abc123
+Login failed for username: mysql and password: password
+Login failed for username: administrator and password: qwerty
